@@ -7,7 +7,8 @@ A simple Dice Roller application built using HTML, CSS, and JavaScript. Roll the
 
 ## 📷 Screenshot
 [Dice Roller Screenshot]
-()
+(<img width="1365" height="606" alt="Dice Roller" src="https://github.com/user-attachments/assets/4de29e68-d83f-4121-a069-89f9b5ee4bc4" />
+)
 
 ## ✨ Features
 - Roll one or multiple dice.
