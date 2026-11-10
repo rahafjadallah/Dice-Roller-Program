@@ -3,7 +3,7 @@ A simple Dice Roller application built using HTML, CSS, and JavaScript. Roll the
 
 ## 🌐 Live Demo
 [Click here to try the project]
-()
+(https://rahafjadallah.github.io/Dice-Roller-Program-/)
 
 ## 📷 Screenshot
 [Dice Roller Screenshot]
